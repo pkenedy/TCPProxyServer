@@ -37,7 +37,8 @@ This project implements a multithreaded HTTP proxy server using C++. The server 
 To compile the server, ensure you have a C++ compiler set up (e.g., MSYS2) and run the following command:
 
 ```bash
-g++ -o proxy_server proxy_server.cpp -lws2_32 -lpthread
+ g++ -o tcp_proxy_server tcp_proxy_server.cpp -lws2_32 -lpthread
+
 
 
 run the Proxy Server:
