@@ -1,0 +1,3 @@
+/c/users/paul/Documents/TCPProxyServer/build/CMakeFiles/TCPProxyServer.dir
+/c/users/paul/Documents/TCPProxyServer/build/CMakeFiles/edit_cache.dir
+/c/users/paul/Documents/TCPProxyServer/build/CMakeFiles/rebuild_cache.dir

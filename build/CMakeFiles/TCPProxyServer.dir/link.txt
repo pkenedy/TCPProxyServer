@@ -1,0 +1,1 @@
+/mingw64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/TCPProxyServer.dir/tcp_proxy_server.cpp.o -o TCPProxyServer.exe -Wl,--out-implib,libTCPProxyServer.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lWs2_32
