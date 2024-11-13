@@ -49,4 +49,4 @@ run the Proxy Server:
 
 Testing 
 
- Proxy: Use a tool like Postman or curl to send requests to http://localhost:8080. The server should process the requests, log them to logs/proxy_log.txt, and return a simple response.
+ Proxy: Use a tool like Postman or curl to send requests to http://localhost:8081. The server should process the requests, log them to logs/proxy_log.txt, and return a simple response.
